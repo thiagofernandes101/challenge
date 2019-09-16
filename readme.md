@@ -36,3 +36,6 @@ Então mãos a obra e bom challenge ;)
 - Boa descrição das funcionalidades do desafio
 - Fidelidade ao design proposto
 - Adaptação mobile
+
+## Construção
+- O código utiliza os links da versão mais recente do bootstrap (versão 4) para a construção do design do layout
