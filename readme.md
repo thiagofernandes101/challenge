@@ -38,4 +38,12 @@ Então mãos a obra e bom challenge ;)
 - Adaptação mobile
 
 ## Construção
-- O código utiliza os links da versão mais recente do bootstrap (versão 4) para a construção do design do layout
+- O código utiliza os links da versão mais recente do bootstrap (versão 4) para a construção do design do layout responsivo da página.
+- A leitura do arquivo JSON foi realizada através do xampp e lido a partir do código jquery o qual foi inserido na pasta jquery.
+- Foi acrescentado na pasta logo, dentro da pasta images, para a navegação do menu, o ícones do site Metrial Desing.
+- Para a fonte, foi utilizado link direto do Google fonts o qual está referenciado no html.
+
+## Funcionalidades
+- A página possui como objetivo deixar responsivo o design proposto no teste, portanto, os links de navegação, assim como os botões utilizados não possuem funcionalidades específicas.
+- Os itens do carrinho de compras são carregados assim que a página é carregada e os itens necessário para seu funcionamento também tenham sido carregados.
+- O html de listagem de produtos e do valor total foi montado diretamente no código jquery na pasta script.

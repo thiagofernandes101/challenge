@@ -1,0 +1,28 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+div.dropdownList {
+    height: 300px;
+    overflow: hidden;
+    overflow-y: scroll;
+}
+
+#btnFinalizarCompra {
+    text-transform: uppercase;
+}
+
+div.totalPedido {
+    height: 3em;
+    position: relative;
+    background: darkgray;
+}
+
+div.totalPedido p {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
